@@ -1,1 +1,1 @@
-# SettingSamples-epoch-KY_CloudSummit-istio
+# SettingSamples-epoch-Exastro_Days_Tokyo-istio
